@@ -1,0 +1,6 @@
+fastapi
+langchain
+langchain-mistralai
+langgraph
+tavily-python
+python-dotenv
