@@ -4,3 +4,4 @@ langchain-mistralai
 langgraph
 tavily-python
 python-dotenv
+chromadb
